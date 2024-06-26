@@ -1,0 +1,23 @@
+/* assets/js - css */
+
+.user-class {
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.home-class {
+    background-color: rgb(225, 225, 225);
+}
+
+.home-container {
+    display: flex;
+    justify-content: center;
+}
+
+.container-style {
+    background-color: whitesmoke;
+    border: 1px whitesmoke solid;
+    border-radius: 20px;
+}
